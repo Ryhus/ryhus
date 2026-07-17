@@ -16,7 +16,7 @@ I'm a **Software Engineer** with experience in **Data Science, Machine Learning 
 ## My Projects
 
 - 📚 **[Knowledge Hub](https://github.com/Ryhus/nodejs-2026q1-knowledge-hub)** - AI powered backend application for working with articles
-- 🎾 **[E-commerce App](https://github.com/Ryhus/eCommerce-group-project)** - Full featured E-commerce frontend application
+- 🎾 **[E-commerce App](https://github.com/Ryhus/eCommerce-group-project)** - Full featured E-commerce application
 - 🛠️ **[REST-client App](https://github.com/Ryhus/rest-client-app)** - REST client application for API testing
 - 🐾 **[Beloved Dogs](https://github.com/Ryhus/beloved-dogs)** - Mini-Encyclopedia of Dog Breeds frontend
 - 💿 **[Data Processing CLI](https://github.com/Ryhus/data-processing-cli)** - Data processing CLI on Node.js
