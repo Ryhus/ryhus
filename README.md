@@ -15,7 +15,7 @@ I'm a **Data Scientist** and **Software Engineer** with experience in **Data Sci
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 ## My Projects
-
+- 💫 **[Anki MCP](https://github.com/Ryhus/anki-mcp)** - An MCP server for interacting with Anki through AnkiConnect
 - 📚 **[Knowledge Hub](https://github.com/Ryhus/nodejs-2026q1-knowledge-hub)** - AI powered backend application for working with articles
 - 🎾 **[E-commerce App](https://github.com/Ryhus/eCommerce-group-project)** - Full featured E-commerce application
 - 🛠️ **[REST-client App](https://github.com/Ryhus/rest-client-app)** - REST client application for API testing
